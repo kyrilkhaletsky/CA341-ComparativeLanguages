@@ -1,0 +1,10 @@
+11/11/17, 12:00, 01:30, [Ashley, John, Sarah]
+15/11/17, 09:00, Business Building
+16/11/17, 10:00, Nursing Building
+11:00, Science Building
+13/11/17, 13:00, 02:30, [Benny, Steve, Bob, Alan]
+17/11/17, 11:00, Henry Grattan
+10/11/17, 10:00, 02:00, [Mary, John, Scott]
+18/11/17, 12:00, Computing Building
+12/11/17, 12:00, 03:00, [Steve, Mick]
+13/11/17, 18:00
